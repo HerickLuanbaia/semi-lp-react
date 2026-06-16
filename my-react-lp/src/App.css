@@ -67,7 +67,7 @@ section {
 }
 
 .s1 {
-    background-image: url('./Miranha.jpg');
+    background-image: url('/Miranha.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -285,6 +285,6 @@ footer a img:hover {
     }
 
     .s1 {
-        background-image: url('./MIRANHAAURA.jpg');
+        background-image: url('/MIRANHAAURA.jpg');
     }
 }
